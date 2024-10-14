@@ -1,7 +1,8 @@
 # miniCore
 *Ingenieria Software- Ingenieria Web* 
+
 *Edwing Nicolás García Calán*
-### Descripcion
+### Descripción
 Este proyecto desarrollado con el framework de spring junto con una base de datos de MySQL, implementó un mini core que muestra un conjunto de clientes junto con los contratos generados en una fecha especifica, donde el usuario selecciona un rango de inicio y fin para poder filtrar y mostrar todo el monto pendiente por cada usuario
 ### Herramientas Implementadas
 Para el desarrollo de este proyecto se trabajo con las siguentes herramientas:
